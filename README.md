@@ -1,5 +1,5 @@
 # python-project
-my name is Purrity Gwavebeni,
+my name is Purrity Gwabeni,
 python mini toolkit is the name of the project
 The prjoct features:
 simple quiz game
